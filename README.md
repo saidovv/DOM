@@ -33,6 +33,20 @@ How to Access Attributes and Elements in CSS?
 ![](./img/java%20script2.jpg)
 
 
+## Events
+
+### HTML
+
+![](./img/html3.jpg)
+
+### Java Script
+
+![](./img/java%20script3.jpg)
+
+
+
+
+
 
 
 
