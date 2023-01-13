@@ -44,6 +44,20 @@ How to Access Attributes and Elements in CSS?
 ![](./img/java%20script3.jpg)
 
 
+## createElement()
+
+The JavaScript document.createElement() method allows you to create and return a 
+new element (an empty Element node) with the specified tag name.
+
+(tajik language)
+Усули JavaScript document.createElement() ба шумо имкон медиҳад, ки а эҷод ва баргардонед.
+
+![](./img/create%20element.jpg)
+
+
+
+
+
 
 
 
